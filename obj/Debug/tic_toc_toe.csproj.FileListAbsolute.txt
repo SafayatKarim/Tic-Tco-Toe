@@ -1,0 +1,9 @@
+D:\tic_toc_toe\tic_toc_toe\bin\Debug\tic_toc_toe.exe.config
+D:\tic_toc_toe\tic_toc_toe\bin\Debug\tic_toc_toe.exe
+D:\tic_toc_toe\tic_toc_toe\bin\Debug\tic_toc_toe.pdb
+D:\tic_toc_toe\tic_toc_toe\obj\Debug\tic_toc_toe.csprojResolveAssemblyReference.cache
+D:\tic_toc_toe\tic_toc_toe\obj\Debug\tic_toc_toe.Form1.resources
+D:\tic_toc_toe\tic_toc_toe\obj\Debug\tic_toc_toe.Properties.Resources.resources
+D:\tic_toc_toe\tic_toc_toe\obj\Debug\tic_toc_toe.csproj.GenerateResource.Cache
+D:\tic_toc_toe\tic_toc_toe\obj\Debug\tic_toc_toe.exe
+D:\tic_toc_toe\tic_toc_toe\obj\Debug\tic_toc_toe.pdb
